@@ -1,0 +1,30 @@
+{
+  "updated": "2025-04-26T12:00:00Z",
+  "services": [
+    {
+      "name": "Website Hosting",
+      "status": "Up",
+      "description": "All client websites are online and responding normally."
+    },
+    {
+      "name": "Client Portal",
+      "status": "Up",
+      "description": "Client portal is fully operational."
+    },
+    {
+      "name": "Email",
+      "status": "Up",
+      "description": "Email services are functioning without issue."
+    },
+    {
+      "name": "DNS",
+      "status": "Up",
+      "description": "DNS resolution is healthy across all managed domains."
+    },
+    {
+      "name": "Remote Support",
+      "status": "Up",
+      "description": "Remote tech support tools are available and connected."
+    }
+  ]
+}
